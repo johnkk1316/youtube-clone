@@ -16,7 +16,7 @@ export const logo = 'https://user-images.githubusercontent.com/88212270/18872447
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
-    { name: 'Codeona', icon: <CodeIcon />, },
+    { name: 'JS Mastery', icon: <CodeIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <CodeIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
