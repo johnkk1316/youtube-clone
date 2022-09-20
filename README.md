@@ -20,7 +20,7 @@ A-responsive-youtube-clone.
 
 ## Tech Stack
 
-**Languages:** Reactjs
+**Languages:** HTML, CSS, JS, JSReactjs
 
 
 
