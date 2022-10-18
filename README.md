@@ -38,7 +38,7 @@ A-responsive-youtube-clone.
 To deploy this project run
 
 ```bash
- https://comfy-kringle-1d5048.netlify.app/
+ https://youtube-clonejkk.netlify.app
 ```
 
 
